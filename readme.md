@@ -1,1 +1,1 @@
-This project teach you how to use the Git
+Este projeto ensina você a mexer no git/github
